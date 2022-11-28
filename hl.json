@@ -1,0 +1,136 @@
+[
+{
+            "league": "Club Friendly",
+            "date": "August 7",
+            "time": "6 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/1946_small.png",
+             "hteam" : "Barcelona",
+            "ateam" : "Pumas",
+            "hllink": [
+{
+           "quality":"720",
+           "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/7/42/230695/720p.m3u8"
+},
+{
+ 
+       "quality":"360",
+         "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/7/42/230695/360p.m3u8"
+}
+]
+},
+            
+            
+{
+                 "league": "Premier League",
+                 "date": "August 7",
+                 "time": "0 - 2",
+                 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
+                 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+                  "hteam" : "West Ham",
+                 "ateam" : "Man City",
+                 "hllink": [
+          {
+                "quality":"720",
+                "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/7/42/230649/720p.m3u8"
+          },
+         {
+ 
+              "quality":"360",
+              "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/7/42/230649/360p.m3u8"
+          }
+]
+     },
+            
+            
+            
+{
+                 "league": "Premier League",
+                 "date": "August 7",
+                 "time": "1 - 2",
+                 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
+                 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
+                  "hteam" : "Man U",
+                 "ateam" : "Brighton",
+                 "hllink": [
+          {
+                "quality":"720",
+                "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/7/42/230620/720p.m3u8"
+          },
+         {
+ 
+              "quality":"360",
+              "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/7/42/230620/360p.m3u8"
+          }
+                    ]
+     },
+            
+            
+            
+{
+                 "league": "Ligue 1",
+                 "date": "August 7",
+                 "time": "0 - 5",
+                 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311.png",
+                 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847.png",
+                  "hteam" : "Clermont Foot",
+                 "ateam" : "PSG",
+                 "hllink": [
+          {
+                "quality":"720",
+                "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/6/42/230574/720p.m3u8"
+          },
+         {
+ 
+              "quality":"360",
+              "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/6/42/230574/360p.m3u8"
+          }
+]
+     },
+            
+            
+            
+{
+                 "league": "Premier league",
+                 "date": "August 6",
+                 "time": "0 - 1",
+                 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
+                 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
+                  "hteam" : "Everton",
+                 "ateam" : "Chelsea",
+                 "hllink": [
+          {
+                "quality":"720",
+                "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/6/42/230540/720p.m3u8"
+          },
+         {
+ 
+              "quality":"360",
+              "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/6/42/230540/360p.m3u8"
+          }
+]
+     },
+            
+            
+            
+{
+                 "league": "Bundesliga",
+                 "date": "August 6",
+                 "time": "1 - 0",
+                 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
+                 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178.png",
+                  "hteam" : "Dortmund",
+                 "ateam" : "Leverkusen",
+                 "hllink": [
+          {
+                "quality":"720",
+                "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/6/42/230533/720p.m3u8"
+          },
+         {
+ 
+              "quality":"360",
+              "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/6/42/230533/360p.m3u8"
+          }
+]
+     }
+]
