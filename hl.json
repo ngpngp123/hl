@@ -1,24 +1,667 @@
 [
+
 {
-            "league": "Club Friendly",
-            "date": "August 7",
-            "time": "6 - 0",
-            "himg": "https://i.postimg.cc/9QhM9sWH/IMG-20220831-103025.jpg",
-            "aimg": "https://i.postimg.cc/9QhM9sWH/IMG-20220831-103025.jpg",
-             "hteam" : "fot",
-            "ateam" : "live",
+            "league": "🏆 Qatar World Cup",
+            "date": "Dec 1",
+            "time": "0 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8568_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
+            "teams" : "Poland Vs Argentina",
+             "hteam" : "Poland",
+            "ateam" : "Argentina",
             "hllink": [
 {
-           "quality":"720",
-           "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/7/42/230695/720p.m3u8"
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/30/51/241848/0.m3u8"
+}
+]
 },
 {
- 
-       "quality":"360",
-         "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/7/42/230695/360p.m3u8"
+            "league": "🏆 Qatar World Cup",
+            "date": "Dec 1",
+            "time": "1 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7795_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6710_small.png",
+            "teams" : "Saudi Arabia Vs Mexico",
+             "hteam" : "Saudi Arabia",
+            "ateam" : "Mexico",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/30/51/241850/0.m3u8"
+}
+]
+},
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 30",
+            "time": "1 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6719_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6723_small.png",
+            "teams" : "Tunisia Vs France",
+             "hteam" : "Tunisia",
+            "ateam" : "France",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/30/52/241794/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 30",
+            "time": "1 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6716_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8238_small.png",
+            "teams" : "Australia Vs Denmark",
+             "hteam" : "Australia",
+            "ateam" : "Denmark",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/30/52/241787/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 30",
+            "time": "0 - 3",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5790_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
+            "teams" : "Wales Vs England",
+             "hteam" : "Wales",
+            "ateam" : "England",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/29/52/241737/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 30",
+            "time": "0 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6711_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6713_small.png",
+            "teams" : "Iran Vs USA",
+             "hteam" : "Iran",
+            "ateam" : "USA",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/29/51/241727/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 29",
+            "time": "2 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5796_small.png",
+            "teams" : "Portugal Vs Uruguay",
+             "hteam" : "Portugal",
+            "ateam" : "Uruguay",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/28/51/241646/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 29",
+            "time": "2 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6708_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5902_small.png",
+            "teams" : "Netherlands Vs Qatar",
+             "hteam" : "Netherlands",
+            "ateam" : "Qatar",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/29/51/241691/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 29",
+            "time": "1 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6707_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6395_small.png",
+            "teams" : "Ecuador Vs Senegal",
+             "hteam" : "Ecuador",
+            "ateam" : "Senegal",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/29/51/241689/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 28",
+            "time": "2 - 3",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6714_small.png",
+            "teams" : "South Korea Vs Ghana",
+             "hteam" : "South Korea",
+            "ateam" : "Ghana",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/28/42/241590/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 28",
+            "time": "1 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8256_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6717_small.png",
+            "teams" : "Brazil Vs Switzerland",
+             "hteam" : "Brazil",
+            "ateam" : "Switzerland",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/28/42/241614/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 28",
+            "time": "3 - 3",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6629_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8205_small.png",
+            "teams" : "Cameroon Vs Serbia",
+             "hteam" : "Cameroon",
+            "ateam" : "Serbia",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/28/51/241568/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 28",
+            "time": "1 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6720_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8570_small.png",
+            "teams" : "Spain Vs Germany",
+             "hteam" : "Spain",
+            "ateam" : "Germany",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/27/51/241539/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 27",
+            "time": "4 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10155_small.pngCroatia",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5810_small.png",
+            "teams" : "Croatia Vs Canada",
+             "hteam" : "Croatia",
+            "ateam" : "Canada",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/27/51/241504/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 27",
+            "time": "0 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8263_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6262_small.png",
+            "teams" : "Belgium Vs Morocco",
+             "hteam" : "Belgium",
+            "ateam" : "Morocco",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/27/51/241481/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 27",
+            "time": "0 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6705_small.png",
+            "teams" : "Japan Vs Costa Rica",
+             "hteam" : "Japan",
+            "ateam" : "Costa Rica",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/27/51/241423/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 27",
+            "time": "2 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6710_small.png",
+            "teams" : "Argentina Vs Mexico",
+             "hteam" : "Argentina",
+            "ateam" : "Mexico",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/26/51/241410/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 26",
+            "time": "2 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6723_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8238_small.png",
+            "teams" : "France Vs Denmark",
+             "hteam" : "France",
+            "ateam" : "Denmark",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/26/51/241407/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 26",
+            "time": "0 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6719_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6716_small.png",
+            "teams" : "Tunisia Vs Australia",
+             "hteam" : "Tunisia",
+            "ateam" : "Australia",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/26/51/241318/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 26",
+            "time": "2 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8568_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7795_small.png",
+            "teams" : "Poland Vs Saudi Arabia",
+             "hteam" : "Poland",
+            "ateam" : "Saudi Arabia",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/26/51/241348/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 26",
+            "time": "0 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6713_small.png",
+            "teams" : "England Vs USA",
+             "hteam" : "England",
+            "ateam" : "USA",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/25/52/241304/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 25",
+            "time": "2 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8256_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8205_small.png",
+            "teams" : "Brazil Vs Serbia",
+             "hteam" : "Brazil",
+            "ateam" : "Serbia",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/24/52/241187/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 25",
+            "time": "0 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5790_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6711_small.png",
+            "teams" : "Wales Vs Iran",
+             "hteam" : "Wales",
+            "ateam" : "Iran",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/25/52/241223/0.m3u8"
+}
+]
+},
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 25",
+            "time": "1 - 3",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5902_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6395_small.png",
+            "teams" : "Qatar Vs Senegal",
+             "hteam" : "Qatar",
+            "ateam" : "Senegal",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/25/52/241257/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 24",
+            "time": "3 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6714_small.png",
+            "teams" : "Portugal Vs Ghana",
+             "hteam" : "Portugal",
+            "ateam" : "Ghana",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/24/52/241155/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 24",
+            "time": "0 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5796_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
+            "teams" : "Uruguay Vs South Korea",
+             "hteam" : "Uruguay",
+            "ateam" : "South Korea",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/24/51/241116/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 24",
+            "time": "1 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6717_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6629_small.png",
+            "teams" : "Switzerland Vs Cameroon",
+             "hteam" : "Switzerland",
+            "ateam" : "Cameroon",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/24/52/241105/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 24",
+            "time": "1 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8263_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5810_small.png",
+            "teams" : "Belgium Vs Canada",
+             "hteam" : "Belgium",
+            "ateam" : "Canada",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/23/42/241063/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 23",
+            "time": "0-0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6262_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10155_small.png",
+            "teams" : "Morocco Vs Croatia",
+             "hteam" : "Morocco",
+            "ateam" : "Croatia",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/23/51/240972/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 23",
+            "time": "7 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6720_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6705_small.png",
+            "teams" : "Spain Vs Costa Rica",
+             "hteam" : "Spain",
+            "ateam" : "Costa Rica",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/23/51/241045/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 23",
+            "time": "1 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8570_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png",
+            "teams" : "Germany Vs Japan",
+             "hteam" : "Germany",
+            "ateam" : "Japan",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/23/51/241008/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 23",
+            "time": "4 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6723_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6716_small.png",
+            "teams" : "France Vs Australia",
+             "hteam" : "France",
+            "ateam" : "Australia",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/22/52/240957/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 22",
+            "time": "0 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8238_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6719_small.png",
+            "teams" : "Denmark Vs Tunisia",
+             "hteam" : "Denmark",
+            "ateam" : "Tunisia",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/22/42/240880/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 22",
+            "time": "0 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6710_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8568_small.png",
+            "teams" : "Mexico Vs Poland",
+             "hteam" : "Mexico",
+            "ateam" : "Poland",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/22/51/240915/0.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 22",
+            "time": "1 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7795_small.png",
+            "teams" : "Argentina Vs Saudi Arabia",
+             "hteam" : "Argentina",
+            "ateam" : "Saudi Arabia",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/22/42/240835/720p.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 22",
+            "time": "1 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6713_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5790_small.png",
+            "teams" : "USA Vs Wales",
+             "hteam" : "USA",
+            "ateam" : "Wales",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/21/52/240796/720p.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 21",
+            "time": "6 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6711_small.png",
+            "teams" : "England Vs Iran",
+             "hteam" : "England",
+            "ateam" : "Iran",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/21/52/240748/720p.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 21",
+            "time": "0 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6395_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6708_small.png",
+            "teams" : "Senegal Vs Netherlands",
+             "hteam" : "Senegal",
+            "ateam" : "Netherlands",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/21/52/240783/720p.m3u8"
+}
+]
+},
+
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Nov 20",
+            "time": "0 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5902_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6707_small.png",
+            "teams" : "Qatar Vs Ecuador",
+             "hteam" : "Qatar",
+            "ateam" : "Ecuador",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/20/52/240667/720p.m3u8"
 }
 ]
 }
-            
+
+
+
+
 
 ]
