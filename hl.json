@@ -1,6 +1,38 @@
 [
 {
             "league": "🏆 Qatar World Cup",
+            "date": "Dec 3",
+            "time": "1 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6629_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8256_small.png",
+            "teams" : "Cameroon Vs Brazil",
+             "hteam" : "Cameroon",
+            "ateam" : "Brazil",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/12/2/51/242119/0.m3u8"
+}
+]
+},
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Dec 3",
+            "time": "2 - 3",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8205_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6717_small.png",
+            "teams" : "Serbia Vs Switzerland",
+             "hteam" : "Serbia",
+            "ateam" : "Switzerland",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/12/2/51/242132/0.m3u8"
+}
+]
+},
+{
+            "league": "🏆 Qatar World Cup",
             "date": "Dec 2",
             "time": "2 - 1",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
