@@ -1,6 +1,38 @@
 [
 {
             "league": "🏆 Qatar World Cup",
+            "date": "Dec 4",
+            "time": "2 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6716_small.png",
+            "teams" : "Argentina Vs Australia",
+             "hteam" : "Argentina",
+            "ateam" : "Australia",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/12/3/51/242202/0.m3u8"
+}
+]
+},
+{
+            "league": "🏆 Qatar World Cup",
+            "date": "Dec 3",
+            "time": "3 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6708_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6713_small.png",
+            "teams" : "Netherlands Vs USA",
+             "hteam" : "Netherlands",
+            "ateam" : "USA",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cnda11.ahdafsoccer.com/UpFiles/2022/12/3/51/242176/0.m3u8"
+}
+]
+},
+{
+            "league": "🏆 Qatar World Cup",
             "date": "Dec 3",
             "time": "1 - 0",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6629_small.png",
