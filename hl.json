@@ -1,5 +1,21 @@
 [
 {
+            "league": "🏆 Premier League",
+            "date": "Jan 1",
+            "time": "2 - 4",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+            "teams" : "Brighton Vs Arsenal",
+             "hteam" : "Brighton",
+            "ateam" : "Arsenal",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://ncdnda66.ahdafsoccer.com/UpFiles/2022/12/31/51/244042/0.m3u8"
+}
+]
+},
+{
             "league": "🏆 Laliga",
             "date": "Dec 31",
             "time": "2 - 1",
