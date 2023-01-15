@@ -1,8 +1,136 @@
 [
 {
+            "league": "🏆 Laliga",
+            "date": "Jan 15",
+            "time": "3 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
+            "teams" : "Real Sociedad Vs Athletic Club",
+             "hteam" : "Real Sociedad",
+            "ateam" : "Athletic Club",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cdnm2.topravideo.com/UpFiles/2023/1/14/42/245304/0.m3u8"
+}
+]
+},
+{
+            "league": "🏆 Ligue 1",
+            "date": "Jan 15",
+            "time": "1 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
+            "teams" : "Lyon Vs Strasbourg",
+             "hteam" : "Lyon",
+            "ateam" : "Strasbourg",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://vd338.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1673834204588&srcIp=45.41.104.27&srcAg=CHROME_ANDROID&ms=185.226.52.59&type=4&sig=4JjLdW-E-_I&ct=8&urls=45.136.20.41&clientType=0&id=3326285122179"
+}
+]
+},
+{
+            "league": "🏆 Ligue 1",
+            "date": "Jan 15",
+            "time": "1 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
+            "teams" : "Inter 1-0 Hellas Verona",
+             "hteam" : "Inter",
+            "ateam" : "Hellas Verona",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://vd159.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1673834105990&srcIp=45.41.104.27&srcAg=CHROME_ANDROID&ms=45.136.21.6&type=4&sig=OTfuOJx_o5k&ct=8&urls=45.136.20.39&clientType=0&id=3326253009539"
+}
+]
+},
+{
+            "league": "🏆 Ligue 1",
+            "date": "Jan 15",
+            "time": "3 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
+            "teams" : "Marseille 3-1 Lorient",
+             "hteam" : "Marseille",
+            "ateam" : "Lorient",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://vd173.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1673834055103&srcIp=45.41.104.27&srcAg=CHROME_ANDROID&ms=45.136.21.20&type=4&sig=DuhlUF6KTSA&ct=8&urls=45.136.20.26&clientType=0&id=3326208838275"
+}
+]
+},
+{
+            "league": "🏆 Premier League",
+            "date": "Jan 15",
+            "time": "2 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
+            "teams" : "Brentford 2-0 Bournemouth",
+             "hteam" : "Brentford",
+            "ateam" : "Bournemouth",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://vd223.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1673833938742&srcIp=45.41.104.27&srcAg=CHROME_ANDROID&ms=45.136.22.31&type=4&sig=fmV3OXegE_Q&ct=8&urls=45.136.21.48&clientType=0&id=3325635791491"
+}
+]
+},
+{
+            "league": "🏆 Serie A",
+            "date": "Jan 14",
+            "time": "2 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+            "teams" : "Lecce 2-2 Milan",
+             "hteam" : "Lecce",
+            "ateam" : "Milan",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://vd406.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1673833841456&srcIp=45.41.104.27&srcAg=CHROME_ANDROID&ms=45.136.20.39&type=4&sig=JqBqtKPZdbE&ct=8&urls=45.136.22.73&clientType=0&id=3325550856835"
+}
+]
+},
+{
+            "league": "🏆 Laliga",
+            "date": "Jan 14",
+            "time": "2 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+            "teams" : "Girona 2-1 Sevilla",
+             "hteam" : "Girona",
+            "ateam" : "Sevilla",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cdnm2.topravideo.com/UpFiles/2023/1/14/42/245240/0.m3u8"
+}
+]
+},
+{
             "league": "🏆 Premier League",
             "date": "Jan 14",
-            "time": "",
+            "time": "1 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
+            "teams" : "Wolves 1-0 West Ham",
+             "hteam" : "Wolves",
+            "ateam" : "West Ham",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://vd336.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1673833265965&srcIp=45.41.104.27&srcAg=CHROME_ANDROID&ms=185.226.53.45&type=4&sig=RqkxZUYC3pg&ct=8&urls=45.136.20.19&clientType=0&id=3324955200131"
+}
+]
+},
+{
+            "league": "🏆 Premier League",
+            "date": "Jan 14",
+            "time": "2 - 0",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
             "teams" : "Nottingham Vs Leicester",
