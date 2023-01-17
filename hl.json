@@ -6,8 +6,8 @@
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
             "teams" : "Cadiz 1-1 Elche",
-             "hteam" : "",
-            "ateam" : "",
+             "hteam" : "Cadiz",
+            "ateam" : "Elche",
             "hllink": [
 {
   "quality":"Auto",
