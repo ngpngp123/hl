@@ -1,11 +1,43 @@
 [
 {
+            "league": "🏆 Laliga",
+            "date": "Jan 17",
+            "time": "1 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
+            "teams" : "Cadiz 1-1 Elche",
+             "hteam" : "",
+            "ateam" : "",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":""
+}
+]
+},
+{
+            "league": "🏆 Serie A",
+            "date": "Jan 17",
+            "time": "1 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
+            "teams" : "Empoli 1-0 Sampdoria",
+             "hteam" : "Empoli",
+            "ateam" : "Sampdoria",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":""
+}
+]
+},
+{
             "league": "🏆 Super Cup Final",
             "date": "Jan 16",
             "time": "1 - 3",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-            "teams" : "Real Madrid Vs Barcelona",
+            "teams" : "Real Madrid 1-3 Barcelona",
              "hteam" : "Real Madrid",
             "ateam" : "Barcelona",
             "hllink": [
@@ -21,7 +53,7 @@
             "time": "1 - 0",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-            "teams" : "Rennes Vs PSG",
+            "teams" : "Rennes 1-0 PSG",
              "hteam" : "Rennes",
             "ateam" : "PSG",
             "hllink": [
@@ -37,7 +69,7 @@
             "time": "2 - 0",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
-            "teams" : "Roma Vs Fiorentina",
+            "teams" : "Roma 2-0 Fiorentina",
              "hteam" : "Roma",
             "ateam" : "Fiorentina",
             "hllink": [
@@ -69,7 +101,7 @@
             "time": "1 - 0",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
-            "teams" : "Newcastle United Vs Fulham",
+            "teams" : "Newcastle United 1-0 Fulham",
              "hteam" : "Newcastle United",
             "ateam" : "Fulham",
             "hllink": [
@@ -85,7 +117,7 @@
             "time": "1 - 0",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
-            "teams" : "Chelsea Vs Crystal Palace",
+            "teams" : "Chelsea 1-0 Crystal Palace",
              "hteam" : "Chelsea",
             "ateam" : "Crystal Palace",
             "hllink": [
@@ -101,7 +133,7 @@
             "time": "1 - 1",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-            "teams" : "Almeria Vs Atletico Madrid",
+            "teams" : "Almeria 1-1 Atletico Madrid",
              "hteam" : "Almeria",
             "ateam" : "Atletico Madrid",
             "hllink": [
@@ -117,7 +149,7 @@
             "time": "1 - 2",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
-            "teams" : "Getafe Vs Espanyol",
+            "teams" : "Getafe 1-2 Espanyol",
              "hteam" : "Getafe",
             "ateam" : "Espanyol",
             "hllink": [
@@ -133,7 +165,7 @@
             "time": "7 - 1",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8576_small.png",
-            "teams" : "Monaco Vs AC Ajaccio",
+            "teams" : "Monaco 7-1 AC Ajaccio",
              "hteam" : "Monaco",
             "ateam" : "AC Ajaccio",
             "hllink": [
@@ -149,7 +181,7 @@
             "time": "8 - 2",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
-            "teams" : "Atalanta Vs Salernitana",
+            "teams" : "Atalanta 8-2 Salernitana",
              "hteam" : "Atalanta",
             "ateam" : "Salernitana",
             "hllink": [
@@ -165,7 +197,7 @@
             "time": "1 - 2",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
-            "teams" : "Udinese Vs Bologna",
+            "teams" : "Udinese 1-2 Bologna",
              "hteam" : "Udinese",
             "ateam" : "Bologna",
             "hllink": [
@@ -213,7 +245,7 @@
             "time": "3 - 1",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
-            "teams" : "Real Sociedad Vs Athletic Club",
+            "teams" : "Real Sociedad 3-1 Athletic Club",
              "hteam" : "Real Sociedad",
             "ateam" : "Athletic Club",
             "hllink": [
@@ -229,7 +261,7 @@
             "time": "1 - 2",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
-            "teams" : "Lyon Vs Strasbourg",
+            "teams" : "Lyon 1-2 Strasbourg",
              "hteam" : "Lyon",
             "ateam" : "Strasbourg",
             "hllink": [
@@ -341,7 +373,7 @@
             "time": "2 - 0",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
-            "teams" : "Nottingham Vs Leicester",
+            "teams" : "Nottingham 2-0 Leicester",
              "hteam" : "Nottingham",
             "ateam" : "Leicester",
             "hllink": [
