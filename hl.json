@@ -1,5 +1,73 @@
 [
 {
+            "league": "🏆 FA Cup",
+            "date": "Jan 18",
+            "time": "0 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+            "teams" : "Wolves 0-1 Liverpool",
+             "hteam" : "Wolves",
+            "ateam" : "Liverpool",
+            "hllink": [
+{
+  "quality":"Fast",
+         "link":"https://cdnm2.topravideo.com/UpFiles/2023/1/17/42/245585/0.m3u8"
+},
+{
+  "quality":"Extended",
+         "link":"https://cdnm2.topravideo.com/UpFiles/2023/1/17/42/245585/0.m3u8"
+}
+]
+},
+{
+            "league": "🏆 Copa del Rey",
+            "date": "Jan 18",
+            "time": "1 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
+            "teams" : "Real Sociedad 1-0 Mallorca",
+             "hteam" : "Real Sociedad",
+            "ateam" : "Mallorca",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cdnm2.topravideo.com/UpFiles/2023/1/17/42/245570/0.m3u8"
+}
+]
+},
+{
+            "league": "🏆 Copa del Rey",
+            "date": "Jan 18",
+            "time": "0 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9866_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+            "teams" : "Deportivo 0-1 Sevilla",
+             "hteam" : "Deportivo",
+            "ateam" : "Sevilla",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png"
+}
+]
+},
+{
+            "league": "🏆 Coppa Italia",
+            "date": "Jan 18",
+            "time": "2 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
+            "teams" : "Napoli 2-2 Cremonese",
+             "hteam" : "Napoli",
+            "ateam" : "Cremonese",
+            "hllink": [
+{
+  "quality":"Auto",
+         "link":"https://cdnm2.topravideo.com/UpFiles/2023/1/17/42/245598/0.m3u8"
+}
+]
+},
+{
             "league": "🏆 Laliga",
             "date": "Jan 17",
             "time": "1 - 1",
