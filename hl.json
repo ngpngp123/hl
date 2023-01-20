@@ -10,12 +10,12 @@
             "ateam" : "Tottenham",
             "hllink": [
 {
-  "quality":"",
-         "link":""
+  "quality":"SD",
+         "link":"https://cdnm2.topravideo.com/UpFiles/2023/1/19/42/245807/360p.m3u8"
 },
 {
-  "quality":"",
-         "link":""
+  "quality":"AUTO",
+         "link":"https://cdnm2.topravideo.com/UpFiles/2023/1/19/42/245807/0.m3u8"
 }
 ]
 },
@@ -30,12 +30,12 @@
             "ateam" : "Monza",
             "hllink": [
 {
-  "quality":"",
-         "link":""
+  "quality":"SD",
+         "link":"https://cdnm2.topravideo.com/UpFiles/2023/1/19/42/245805/360p.m3u8"
 },
 {
-  "quality":"",
-         "link":""
+  "quality":"AUTO",
+         "link":"https://cdnm2.topravideo.com/UpFiles/2023/1/19/42/245805/0.m3u8"
 }
 ]
 },
@@ -50,12 +50,12 @@
             "ateam" : "Real Madrid",
             "hllink": [
 {
-  "quality":"",
-         "link":""
+  "quality":"SD",
+         "link":"https://cdnm2.topravideo.com/UpFiles/2023/1/19/51/245811/360p.m3u8"
 },
 {
-  "quality":"",
-         "link":""
+  "quality":"AUTO",
+         "link":"https://cdnm2.topravideo.com/UpFiles/2023/1/19/51/245811/0.m3u8"
 }
 ]
 },
@@ -70,12 +70,12 @@
             "ateam" : "Barcelona",
             "hllink": [
 {
-  "quality":"",
-         "link":""
+  "quality":"SD",
+         "link":"https://cdnm2.topravideo.com/UpFiles/2023/1/19/42/245791/360p.m3u8"
 },
 {
-  "quality":"",
-         "link":""
+  "quality":"HD",
+         "link":"https://cdnm2.topravideo.com/UpFiles/2023/1/19/42/245791/720p.m3u8"
 }
 ]
 },
@@ -90,12 +90,12 @@
             "ateam" : "PSG",
             "hllink": [
 {
-  "quality":"",
-         "link":""
+  "quality":"SD",
+         "link":"https://cdnm2.topravideo.com/UpFiles/2023/1/19/42/245770/360p.m3u8"
 },
 {
-  "quality":"",
-         "link":""
+  "quality":"HD",
+         "link":"https://cdnm2.topravideo.com/UpFiles/2023/1/19/42/245770/720p.m3u8"
 }
 ]
 },
@@ -110,12 +110,12 @@
             "ateam" : "Bologna",
             "hllink": [
 {
-  "quality":"",
-         "link":""
+  "quality":"SD",
+         "link":"https://cdnm2.topravideo.com/UpFiles/2023/1/19/42/245741/360p.m3u8"
 },
 {
-  "quality":"",
-         "link":""
+  "quality":"HD",
+         "link":"https://cdnm2.topravideo.com/UpFiles/2023/1/19/42/245741/720p.m3u8"
 }
 ]
 },
@@ -126,16 +126,16 @@
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
             "teams" : "Atalanta 5-2 Spezia",
-             "hteam" : "",
-            "ateam" : "",
+             "hteam" : "Atalanta",
+            "ateam" : "Spezia",
             "hllink": [
 {
-  "quality":"",
-         "link":""
+  "quality":"SD",
+         "link":"https://cdnm2.topravideo.com/UpFiles/2023/1/19/42/245696/360p.m3u8"
 },
 {
-  "quality":"",
-         "link":""
+  "quality":"AUTO",
+         "link":"https://cdnm2.topravideo.com/UpFiles/2023/1/19/42/245696/0.m3u8"
 }
 ]
 },
