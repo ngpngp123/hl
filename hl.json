@@ -1,5 +1,25 @@
 [
 {
+            "league": "🏆 Laliga",
+            "date": "Jan 29",
+            "time": "1 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
+            "teams" : "Real Valladolid 1-0 Valencia",
+             "hteam" : "Real Valladolid",
+            "ateam" : "Valencia",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/1/29/42/246583/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/1/29/42/246583/720p.m3u8"
+}
+]
+},
+{
             "league": "🏆 Ligue 1",
             "date": "Jan 29",
             "time": "1 - 0",
