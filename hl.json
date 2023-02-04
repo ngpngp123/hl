@@ -1,5 +1,25 @@
 [
 {
+            "league": "🏆 Laliga",
+            "date": "Feb 4",
+            "time": "1 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
+            "teams" : "Espanyol 1-1 Osasuna",
+             "hteam" : "Espanyol",
+            "ateam" : "Osasuna",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/4/42/246953/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/4/42/246953/720p.m3u8"
+}
+]
+},
+{
             "league": "🏆 Premier League",
             "date": "Feb 4",
             "time": "1 - 0",
