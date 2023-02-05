@@ -1,5 +1,25 @@
 [
 {
+            "league": "🏆 Laliga",
+            "date": "Feb 5",
+            "time": "1 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+            "teams" : "Mallorca - Real Madrid",
+             "hteam" : "Mallorca",
+            "ateam" : "Real Madrid",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/5/42/247119/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/5/42/247119/720p.m3u8"
+}
+]
+},
+{
             "league": "🏆 Ligue 1",
             "date": "Feb 5",
             "time": "0 - 2",
