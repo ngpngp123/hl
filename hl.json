@@ -30,8 +30,8 @@
             "ateam" : "Fulham",
             "hllink": [
 {
-  "quality":"SD",
-         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/7/42/247256/360p.m3u8"
+  "quality":"HD",
+         "link":"https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=f6155191faa462bd3af9180bd5875f95&txTime=63e432dd"
 },
 {
   "quality":"HD",
@@ -55,7 +55,7 @@
 },
 {
   "quality":"HD",
-         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/7/42/247256/720p.m3u8"
+         "link":"https://sports01.livnvess.com/live/stream-143449.m3u8?txSecret=a40a60096e291eb6fd429cf9446e9f4b&txTime=63e43319"
 }
 ]
 },
@@ -71,11 +71,11 @@
             "hllink": [
 {
   "quality":"SD",
-         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/7/42/247256/360p.m3u8"
+         "link":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-181398_lsd.m3u8?sub_m3u8=true&auth_key=1675899733-0-0-6b17c437416f4c08bd60fd2596a95bd5&edge_slice=true&user_session_id=c7d9966dea0aed797d355e52395dd9ad"
 },
 {
   "quality":"HD",
-         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/7/42/247256/720p.m3u8"
+         "link":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?sub_m3u8=true&auth_key=1675899733-0-0-2e21e9f10169bfc5cdc4e26c77148004&user_session_id=fcc6f1b8c882e06114cb859d17f9b52f&edge_slice=true"
 }
 ]
 },
@@ -95,7 +95,7 @@
 },
 {
   "quality":"HD",
-         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/7/42/247256/720p.m3u8"
+         "link":"https://sports01.livnvess.com/live/stream-201313.m3u8?txSecret=376cac34a0ae5b32eab3265dbc975ca5&txTime=63e433cd"
 }
 ]
 },
