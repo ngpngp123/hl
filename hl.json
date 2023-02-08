@@ -2,12 +2,12 @@
 {
             "league": "DFB Pokall",
             "date": "Feb 9",
-            "time": "0 - 3",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
-            "teams" : "Salernitana - Juventus",
-             "hteam" : "VfL Bochum",
-            "ateam" : "Borussia Dortmund",
+            "time": "VS",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101745_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+            "teams" : "Al Ahly SC - Real Madrid",
+             "hteam" : "Al Ahly SC",
+            "ateam" : "Real Madrid",
             "hllink": [
 {
   "quality":"SD",
@@ -22,7 +22,7 @@
 {
             "league": "🏆 FA CUP",
             "date": "Feb 9",
-            "time": "0 - 0",
+            "time": "VS",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8472_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
             "teams" : "Sunderland Vs Fulham",
@@ -62,7 +62,7 @@
 {
             "league": "Premier League",
             "date": "Feb 9",
-            "time": "Man United Vs Leeds",
+            "time": "VS",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
             "teams" : "Salernitana - Juventus",
@@ -82,12 +82,32 @@
 {
             "league": "Coupe de France",
             "date": "Feb 9",
-            "time": "0 - 0",
+            "time": "Vs",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
             "teams" : "Marseille Vs PSG",
              "hteam" : "Marseille",
             "ateam" : "PSG",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/7/42/247256/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/7/42/247256/720p.m3u8"
+}
+]
+},
+{
+            "league": "Serie A p",
+            "date": "Feb 8",
+            "time": "0 - 3",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+            "teams" : "Salernitana - Juventus",
+             "hteam" : "Salernitana",
+            "ateam" : "Juventus",
             "hllink": [
 {
   "quality":"SD",
