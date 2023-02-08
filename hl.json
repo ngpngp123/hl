@@ -1,6 +1,6 @@
 [
 {
-            "league": "DFB Pokall",
+            "league": "Fifa World Cup",
             "date": "Feb 9",
             "time": "VS",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101745_small.png",
@@ -40,14 +40,14 @@
 ]
 },
 {
-            "league": "Fifa World Cup",
+            "league": "VfL Bochum",
             "date": "Feb 9",
             "time": "VS",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101745_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-            "teams" : "Al Ahly SC - Real Madrid",
-             "hteam" : "Al Ahly SC",
-            "ateam" : "Real Madrid",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+            "teams" : "VfL Bochum - Borussia Dortmund",
+             "hteam" : "VfL Bochum",
+            "ateam" : "Borussia Dortmund",
             "hllink": [
 {
   "quality":"SD",
