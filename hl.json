@@ -40,14 +40,14 @@
 ]
 },
 {
-            "league": "Serie A p",
-            "date": "Feb 8",
-            "time": "0 - 3",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-            "teams" : "Salernitana - Juventus",
-             "hteam" : "Salernitana",
-            "ateam" : "Juventus",
+            "league": "Fifa World Cup",
+            "date": "Feb 9",
+            "time": "VS",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101745_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+            "teams" : "Al Ahly SC - Real Madrid",
+             "hteam" : "Al Ahly SC",
+            "ateam" : "Real Madrid",
             "hllink": [
 {
   "quality":"SD",
