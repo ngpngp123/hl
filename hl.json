@@ -2,7 +2,7 @@
 {
             "league": "Fifa World Cup",
             "date": "Feb 9",
-            "time": "VS",
+            "time": "1 - 4",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101745_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
             "teams" : "Al Ahly SC - Real Madrid",
@@ -11,18 +11,18 @@
             "hllink": [
 {
   "quality":"SD",
-         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/7/42/247256/360p.m3u8"
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/8/51/247323/360p.m3u8"
 },
 {
   "quality":"HD",
-         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/7/42/247256/720p.m3u8"
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/8/51/247323/720p.m3u8"
 }
 ]
 },
 {
             "league": "🏆 FA CUP",
             "date": "Feb 9",
-            "time": "VS",
+            "time": "2 - 3",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8472_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
             "teams" : "Sunderland Vs Fulham",
@@ -31,18 +31,18 @@
             "hllink": [
 {
   "quality":"HD",
-         "link":"https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=f6155191faa462bd3af9180bd5875f95&txTime=63e432dd"
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/8/42/247324/360p.m3u8"
 },
 {
   "quality":"HD",
-         "link":"https://yypull.gdsth.com/live/stream-435929.m3u8?auth_key=1675899937-0-0-66c3fad79e413e7504028f6f6267109a"
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/8/42/247324/720p.m3u8"
 }
 ]
 },
 {
             "league": "VfL Bochum",
             "date": "Feb 9",
-            "time": "VS",
+            "time": "1 - 2",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
             "teams" : "VfL Bochum - Borussia Dortmund",
@@ -51,31 +51,31 @@
             "hllink": [
 {
   "quality":"SD",
-         "link":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1675899937-0-0-7b257a9f27b43e839cd993dbf8345a67&user_session_id=e9342673b43b10272d4b736772ff6300"
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/8/42/247325/360p.m3u8"
 },
 {
   "quality":"HD",
-         "link":"https://sports01.livnvess.com/live/stream-143449.m3u8?txSecret=a40a60096e291eb6fd429cf9446e9f4b&txTime=63e43319"
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/8/42/247325/720p.m3u8"
 }
 ]
 },
 {
             "league": "Premier League",
             "date": "Feb 9",
-            "time": "VS",
+            "time": "2 - 2",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
-            "teams" : "Salernitana - Juventus",
+            "teams" : "Man United - Leeds",
              "hteam" : "Man United",
             "ateam" : "Leeds",
             "hllink": [
 {
   "quality":"SD",
-         "link":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-181398_lsd.m3u8?sub_m3u8=true&auth_key=1675899733-0-0-6b17c437416f4c08bd60fd2596a95bd5&edge_slice=true&user_session_id=c7d9966dea0aed797d355e52395dd9ad"
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/8/51/247334/360p.m3u8"
 },
 {
   "quality":"HD",
-         "link":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?sub_m3u8=true&auth_key=1675899733-0-0-2e21e9f10169bfc5cdc4e26c77148004&user_session_id=fcc6f1b8c882e06114cb859d17f9b52f&edge_slice=true"
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/8/51/247334/720p.m3u8"
 }
 ]
 },
@@ -91,11 +91,11 @@
             "hllink": [
 {
   "quality":"SD",
-         "link":"https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-658659_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=cd885b0d6a78e80d8319591f68b531ae&auth_key=1675899997-0-0-bc33325013b8a42b89eec76e7489afe8"
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/8/51/247335/360p.m3u8"
 },
 {
   "quality":"HD",
-         "link":"https://sports01.livnvess.com/live/stream-201313.m3u8?txSecret=376cac34a0ae5b32eab3265dbc975ca5&txTime=63e433cd"
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/8/51/247335/720p.m3u8"
 }
 ]
 },
