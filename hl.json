@@ -2,6 +2,86 @@
 {
             "league": "🏆 Laliga",
             "date": "Feb 20",
+            "time": "2 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
+            "teams" : "Barcelona - Cadiz",
+             "hteam" : "Barcelona",
+            "ateam" : "Cadiz",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/19/42/248391/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/19/42/248391/720p.m3u8"
+}
+]
+}, 
+{
+            "league": "🏆 Ligue 1",
+            "date": "Feb 20",
+            "time": "2 - 3",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
+            "teams" : "Toulouse - Marseille",
+             "hteam" : "Toulouse",
+            "ateam" : "Marseille",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/19/42/248386/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/19/42/248386/720p.m3u8"
+}
+]
+}, 
+{
+            "league": "🏆 Serie A",
+            "date": "Feb 20",
+            "time": "1 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
+            "teams" : "Roma - Hellas Verona",
+             "hteam" : "Roma",
+            "ateam" : "Hellas Verona",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/19/42/248389/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/19/42/248389/720p.m3u8"
+}
+]
+}, 
+{
+            "league": "🏆 Bundesliga",
+            "date": "Feb 20",
+            "time": "2 - 3",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
+            "teams" : "Bayer Leverkusen - Mainz 05",
+             "hteam" : "Bayer Leverkusen",
+            "ateam" : "Mainz 05",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/19/42/248363/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://cdnxv22.topravideo.com/UpFiles/2023/2/19/42/248363/720p.m3u8"
+}
+]
+}, 
+{
+            "league": "🏆 Laliga",
+            "date": "Feb 20",
             "time": "1 - 0",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
