@@ -2,6 +2,86 @@
 {
             "league": "🏆 Premier League",
             "date": "Feb 26",
+            "time": "2 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+            "teams" : "Tottenham - Chelsea",
+             "hteam" : "Tottenham",
+            "ateam" : "Chelsea",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/2/26/42/248902/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/2/26/42/248902/720p.m3u8"
+}
+]
+}, 
+{
+            "league": "🏆 Laliga",
+            "date": "Feb 26",
+            "time": "2 - 3",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
+            "teams" : "Athletic Club - Girona",
+             "hteam" : "Athletic Club",
+            "ateam" : "Girona",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/2/26/42/248892/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/2/26/42/248892/720p.m3u8"
+}
+]
+}, 
+{
+            "league": "🏆 Ligue 1",
+            "date": "Feb 26",
+            "time": "0 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8583_small.png",
+            "teams" : "Lorient - Auxerre",
+             "hteam" : "Lorient",
+            "ateam" : "Auxerre",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/2/26/42/248882/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/2/26/42/248882/720p.m3u8"
+}
+]
+}, 
+{
+            "league": "🏆 Serie A",
+            "date": "Feb 26",
+            "time": "1 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+            "teams" : "Bologna - Inter",
+             "hteam" : "Bologna",
+            "ateam" : "Inter",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/2/26/42/248879/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/2/26/42/248879/720p.m3u8"
+}
+]
+}, 
+{
+            "league": "🏆 Premier League",
+            "date": "Feb 26",
             "time": "1 - 4",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
