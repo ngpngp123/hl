@@ -1,5 +1,206 @@
 [
 {
+            "league": "🏆 Ligue 1",
+            "date": "Feb 27",
+            "time": "0 - 3",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+            "teams" : "Marseille - PSG",
+             "hteam" : "Marseille",
+            "ateam" : "PSG",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":""
+},
+{
+  "quality":"HD",
+         "link":""
+}
+]
+}, 
+{
+            "league": "🏆 Serie A",
+            "date": "Feb 27",
+            "time": "2 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
+            "teams" : "Milan - Atalanta",
+             "hteam" : "Milan",
+            "ateam" : "Atalanta",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":""
+},
+{
+  "quality":"HD",
+         "link":""
+}
+]
+}, 
+{
+            "league": "🏆 Laliga",
+            "date": "Feb 27",
+            "time": "2 - 3",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
+            "teams" : "Sevilla - Osasuna",
+             "hteam" : "Sevilla",
+            "ateam" : "Osasuna",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":""
+},
+{
+  "quality":"HD",
+         "link":""
+}
+]
+}, 
+{
+            "league": "🏆 Laliga",
+            "date": "Feb 27",
+            "time": "1 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+            "teams" : "Almeria - Barcelona",
+             "hteam" : "Almeria",
+            "ateam" : "Barcelona",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":""
+},
+{
+  "quality":"HD",
+         "link":""
+}
+]
+}, 
+{
+            "league": "🏆 Serie A",
+            "date": "Feb 26",
+            "time": "2 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
+            "teams" : "Udinese - Spezia",
+             "hteam" : "Udinese",
+            "ateam" : "Spezia",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":""
+},
+{
+  "quality":"HD",
+         "link":""
+}
+]
+}, 
+
+{
+            "league": "🏆 Carabao Cup Final",
+            "date": "Feb 26",
+            "time": "2 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+            "teams" : "Man United - Newcastle",
+             "hteam" : "Man United",
+            "ateam" : "Newcastle",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":""
+},
+{
+  "quality":"HD",
+         "link":""
+}
+]
+}, 
+{
+            "league": "🏆 Bundesliga",
+            "date": "Feb 26",
+            "time": "3 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
+            "teams" : "Bayern München - Union Berlin",
+             "hteam" : "Bayern München",
+            "ateam" : "Union Berlin",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":""
+},
+{
+  "quality":"HD",
+         "link":""
+}
+]
+}, 
+{
+            "league": "🏆 Ligue 1",
+            "date": "Feb 26",
+            "time": "0 - 3",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
+            "teams" : "Monaco - Nice",
+             "hteam" : "Monaco",
+            "ateam" : "Nice",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":""
+},
+{
+  "quality":"HD",
+         "link":""
+}
+]
+}, 
+{
+            "league": "🏆 Laliga",
+            "date": "Feb 26",
+            "time": "3 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
+            "teams" : "Celta Vigo - Real Valladolid",
+             "hteam" : "Celta Vigo",
+            "ateam" : "Real Valladolid",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":""
+},
+{
+  "quality":"HD",
+         "link":""
+}
+]
+}, 
+{
+            "league": "🏆 Bundesliga",
+            "date": "Feb 26",
+            "time": "1 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
+            "teams" : "SC Freiburg - Bayer Leverkusen",
+             "hteam" : "SC Freiburg",
+            "ateam" : "Bayer Leverkusen",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":""
+},
+{
+  "quality":"HD",
+         "link":""
+}
+]
+}, 
+{
             "league": "🏆 Serie A",
             "date": "Feb 26",
             "time": "3 - 0",
