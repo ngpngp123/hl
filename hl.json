@@ -1,37 +1,184 @@
 [
+
 {
-           "league": "MAN U",
-            "date": "TV Channel",
-            "time": "live",
-            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "teams" : "Man United TV",
-            "hteam" : "MAN U",
-            "ateam" : "TV",
-            "hotmat":"yes",
-            "link":[
-                
+            "league": "🏆 FA CUP",
+            "date": "March 2",
+            "time": "3 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
+            "teams" : "Man United - West Ham",
+             "hteam" : "Man United",
+            "ateam" : "West Ham",
+            "hllink": [
 {
-                    "type": "MUTV 360 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-         
-                },
-                
+  "quality":"SD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/3/1/51/249175/360p.m3u8"
+},
 {
-                    "type": "MUTV 240 SD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MUTV 540 HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-         
-                },
-{
-                    "type": "MAN U TV 1080HD",
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-                }
-                
-            ]
+  "quality":"HD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/3/1/51/249175/0.m3u8"
 }
+]
+}, 
+{
+            "league": "🏆 FA CUP",
+            "date": "March 2",
+            "time": "1 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8657_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+            "teams" : "Sheffield United - Tottenham Hotspur",
+             "hteam" : "Sheffield United",
+            "ateam" : "Tottenham Hotspur",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/3/1/42/249164/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/3/1/42/249164/720p.m3u8"
+}
+]
+}, 
+{
+            "league": "🏆 Premier League",
+            "date": "March 2",
+            "time": "4 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
+            "teams" : "Arsenal - Everton",
+             "hteam" : "Arsenal",
+            "ateam" : "Everton",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/3/1/42/249156/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/3/1/42/249156/720p.m3u8"
+}
+]
+},
+{
+            "league": "🏆 Premier League",
+            "date": "March 2",
+            "time": "2 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
+            "teams" : "Liverpool - Wolves",
+             "hteam" : "Liverpool",
+            "ateam" : "Wolves",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/3/1/51/249170/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/3/1/51/249170/720p.m3u8"
+}
+]
+}, 
+{
+            "league": "🏆 FA CUP",
+            "date": "March 1",
+            "time": "0 - 3",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8427_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+            "teams" : "Bristol City - Manchester City",
+             "hteam" : "Bristol City",
+            "ateam" : "Manchester City",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/2/28/42/249096/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/2/28/42/249096/720p.m3u8"
+}
+]
+}, 
+{
+            "league": "🏆 FA CUP",
+            "date": "March 1",
+            "time": "2 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
+            "teams" : "Fulham - Leeds United",
+             "hteam" : "Fulham",
+            "ateam" : "Leeds United",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/2/28/42/249090/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/2/28/42/249090/720p.m3u8"
+}
+]
+}, 
+{
+            "league": "🏆 FA CUP",
+            "date": "March 1",
+            "time": "1 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8655_small.png",
+            "teams" : "Leicester City - Blackburn Rovers",
+             "hteam" : "Leicester City",
+            "ateam" : "Blackburn Rovers",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/2/28/42/249088/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/2/28/42/249088/720p.m3u8"
+}
+]
+}, 
+{
+            "league": "🏆 Serie A",
+            "date": "March 1",
+            "time": "4 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
+            "teams" : "Juventus - Torino",
+             "hteam" : "Juventus",
+            "ateam" : "Torino",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/2/28/42/249091/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/2/28/42/249091/720p.m3u8"
+}
+]
+}, 
+{
+            "league": "🏆 Serie A",
+            "date": "March 1",
+            "time": "2 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+            "teams" : "Cremonese - Roma",
+             "hteam" : "Cremonese",
+            "ateam" : "Roma",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/2/28/42/249077/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/2/28/42/249077/720p.m3u8"
+}
+]
+}
+
 ]
