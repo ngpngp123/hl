@@ -1,5 +1,24 @@
 [
-
+{
+            "league": "🏆 Copa del Rey",
+            "date": "March 3",
+            "time": "0 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+            "teams" : "Real Madrid - Barcelona",
+             "hteam" : "Real Madrid",
+            "ateam" : "Barcelona",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/3/2/51/249251/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://v2.topravideo.com/UpFiles/2023/3/2/51/249251/720p.m3u8"
+}
+]
+}, 
 {
             "league": "🏆 FA CUP",
             "date": "March 2",
