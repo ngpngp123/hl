@@ -9,16 +9,16 @@
             "teams" : "Juventus Vs Hellas Verona",
             "hteam" : "Juventus",
             "ateam" : "Hellas Verona",
-            "hotmat":"yes",
-            "link":[
+       
+            "hllink":[
   {
-                    "type": "SD",
-                "livelink":"https://n.topravideo.com/UpFiles/2023/4/1/51/251701/360p.m3u8"
+                    "quality": "SD",
+                "link":"https://n.topravideo.com/UpFiles/2023/4/1/51/251701/360p.m3u8"
          
                 },                     
 {
-                    "type": "Auto",
-                "livelink":"https://n.topravideo.com/UpFiles/2023/4/1/51/251701/0.m3u8"
+                    "quality": "Auto",
+                "link":"https://n.topravideo.com/UpFiles/2023/4/1/51/251701/0.m3u8"
                 }
                 
             ]
@@ -32,16 +32,16 @@
             "teams" : "Elche Vs Barcelona",
             "hteam" : "Elche",
             "ateam" : "Barcelona",
-            "hotmat":"yes",
-            "link":[
+           
+            "hllink":[
   {
-                    "type": "SD",
-                "livelink":"https://n.topravideo.com/UpFiles/2023/4/1/51/251702/360p.m3u8"
+                    "quality": "SD",
+                "link":"https://n.topravideo.com/UpFiles/2023/4/1/51/251702/360p.m3u8"
          
                 },                     
 {
-                    "type": "Auto",
-                "livelink":"https://n.topravideo.com/UpFiles/2023/4/1/51/251702/0.m3u8"
+                    "quality": "Auto",
+                "link":"https://n.topravideo.com/UpFiles/2023/4/1/51/251702/0.m3u8"
                 }
                 
             ]
@@ -55,16 +55,16 @@
             "teams" : "Chelsea Vs Aston Villa",
             "hteam" : "Chelsea",
             "ateam" : "Aston Villa",
-            "hotmat":"yes",
-            "link":[
+           
+            "hllink":[
   {
-                    "type": "SD",
-                "livelink":"https://n.topravideo.com/UpFiles/2023/4/1/51/251653/360p.m3u8"
+                    "quality": "SD",
+                "link":"https://n.topravideo.com/UpFiles/2023/4/1/51/251653/360p.m3u8"
          
                 },                     
 {
-                    "type": "Auto",
-                "livelink":"https://n.topravideo.com/UpFiles/2023/4/1/51/251653/0.m3u8"
+                    "quality": "Auto",
+                "link":"https://n.topravideo.com/UpFiles/2023/4/1/51/251653/0.m3u8"
                 }                
             ]
 },
@@ -77,16 +77,16 @@
             "teams" : "Bayern München Vs Dortmund",
             "hteam" : "Bayern München",
             "ateam" : "Dortmund",
-            "hotmat":"yes",
-            "link":[
+           
+            "hllink":[
   {
-                    "type": "SD",
-                "livelink":"https://n.topravideo.com/UpFiles/2023/4/1/42/251636/360p.m3u8"
+                    "quality": "SD",
+                "link":"https://n.topravideo.com/UpFiles/2023/4/1/42/251636/360p.m3u8"
          
                 },                     
 {
-                    "type": "Auto",
-                "livelink":"https://n.topravideo.com/UpFiles/2023/4/1/42/251636/0.m3u8"
+                    "quality": "Auto",
+                "link":"https://n.topravideo.com/UpFiles/2023/4/1/42/251636/0.m3u8"
                 }
                 
             ]
@@ -100,16 +100,16 @@
             "teams" : "Cadiz Vs Sevilla",
             "hteam" : "Cadiz",
             "ateam" : "Sevilla",
-            "hotmat":"no",
-            "link":[
+           
+            "hllink":[
   {
-                    "type": "SD",
-                "livelink":"https://n.topravideo.com/UpFiles/2023/4/1/42/251664/360p.m3u8"
+                    "quality": "SD",
+                "link":"https://n.topravideo.com/UpFiles/2023/4/1/42/251664/360p.m3u8"
          
                 },                     
 {
-                    "type": "Auto",
-                "livelink":"https://n.topravideo.com/UpFiles/2023/4/1/42/251664/0.m3u8"
+                    "quality": "Auto",
+                "link":"https://n.topravideo.com/UpFiles/2023/4/1/42/251664/0.m3u8"
                 }
                 
             ]
