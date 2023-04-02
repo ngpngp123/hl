@@ -1,6 +1,52 @@
 [ 
 
 {
+           "league": "🏆 Serie A",
+            "date": "April 2",
+            "time": "1 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
+            "teams" : "Juventus Vs Hellas Verona",
+            "hteam" : "Juventus",
+            "ateam" : "Hellas Verona",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":"https://n.topravideo.com/UpFiles/2023/4/1/51/251701/360p.m3u8"
+         
+                },                     
+{
+                    "type": "Auto",
+                "livelink":"https://n.topravideo.com/UpFiles/2023/4/1/51/251701/0.m3u8"
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Laliga",
+            "date": "April 2",
+            "time": "0 - 4",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+            "teams" : "Elche Vs Barcelona",
+            "hteam" : "Elche",
+            "ateam" : "Barcelona",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":"https://n.topravideo.com/UpFiles/2023/4/1/51/251702/360p.m3u8"
+         
+                },                     
+{
+                    "type": "Auto",
+                "livelink":"https://n.topravideo.com/UpFiles/2023/4/1/51/251702/0.m3u8"
+                }
+                
+            ]
+},
+{
            "league": "🏆 PREMIER LEAGUE",
             "date": "April 1",
             "time": "0 - 2",
@@ -17,7 +63,7 @@
          
                 },                     
 {
-                    "type": "HD",
+                    "type": "Auto",
                 "livelink":"https://n.topravideo.com/UpFiles/2023/4/1/51/251653/0.m3u8"
                 }                
             ]
@@ -39,7 +85,7 @@
          
                 },                     
 {
-                    "type": "HD",
+                    "type": "Auto",
                 "livelink":"https://n.topravideo.com/UpFiles/2023/4/1/42/251636/0.m3u8"
                 }
                 
@@ -62,7 +108,7 @@
          
                 },                     
 {
-                    "type": "HD",
+                    "type": "Auto",
                 "livelink":"https://n.topravideo.com/UpFiles/2023/4/1/42/251664/0.m3u8"
                 }
                 
@@ -87,7 +133,7 @@
                 }, 
    
               {
-                    "type": "HD",
+                    "type": "Auto",
                 "livelink":"https://n.topravideo.com/UpFiles/2023/4/1/42/251621/0.m3u8"
          
                 } 
