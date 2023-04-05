@@ -1,5 +1,145 @@
 [  
 {
+            "league": "🏆 Copa del Rey Semi Final",
+            "date": "April 6",
+            "time": "0 - 4",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+            "teams" : "Barcelona - Real Madrid",
+             "hteam" : "Barcelona",
+            "ateam" : "Real Madrid",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://n.topravideo.com/UpFiles/2023/4/5/51/252039/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://n.topravideo.com/UpFiles/2023/4/5/51/252039/720p.m3u8"
+}
+]
+}, 
+{
+            "league": "🏆 Premier League",
+            "date": "April 6",
+            "time": "1 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
+            "teams" : "Man United - Brentford",
+             "hteam" : "Man United",
+            "ateam" : "Brentford",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://n.topravideo.com/UpFiles/2023/4/5/51/252049/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://n.topravideo.com/UpFiles/2023/4/5/51/252049/720p.m3u8"
+}
+]
+}, 
+{
+            "league": "🏆 Premier League",
+            "date": "April 6",
+            "time": "1 - 5",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+            "teams" : "West Ham - Newcastle",
+             "hteam" : "West Ham",
+            "ateam" : "Newcastle",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://n.topravideo.com/UpFiles/2023/4/5/42/252042/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://n.topravideo.com/UpFiles/2023/4/5/42/252042/720p.m3u8"
+}
+]
+}, 
+{
+            "league": "🏆 DFB Pokal Quarter Final",
+            "date": "April 6",
+            "time": "2 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+            "teams" : "RB Leipzig - Borussia Dortmund",
+             "hteam" : "RB Leipzig",
+            "ateam" : "Borussia Dortmund",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://n.topravideo.com/UpFiles/2023/4/5/42/252023/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://n.topravideo.com/UpFiles/2023/4/5/42/252023/720p.m3u8"
+}
+]
+}, 
+{
+            "league": "🏆 Copa de France Semi Final",
+            "date": "April 6",
+            "time": "1 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
+            "teams" : "Nantes - Lyon",
+             "hteam" : "Nantes",
+            "ateam" : "Lyon",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://n.topravideo.com/UpFiles/2023/4/6/42/252058/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://n.topravideo.com/UpFiles/2023/4/6/42/252058/720p.m3u8"
+}
+]
+}, 
+{
+            "league": "🏆 Coppa Italia Semi Final",
+            "date": "April 6",
+            "time": "0 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
+            "teams" : "Cremonese - Fiorentina",
+             "hteam" : "Cremonese",
+            "ateam" : "Fiorentina",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://n.topravideo.com/UpFiles/2023/4/5/42/252020/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://n.topravideo.com/UpFiles/2023/4/5/42/252020/720p.m3u8"
+}
+]
+}, 
+{
+            "league": "🏆 DFB Pokal Quarter Final",
+            "date": "April 6",
+            "time": "0 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8165_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
+            "teams" : "1.FC Nürnberg - VfB Stuttgart",
+             "hteam" : "1.FC Nürnberg",
+            "ateam" : "VfB Stuttgart",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":""
+},
+{
+  "quality":"HD",
+         "link":""
+}
+]
+}, 
+{
            "league": "🏆 Premier League",
             "date": "April 5",
             "time": "1 - 2",
