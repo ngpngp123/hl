@@ -1,5 +1,25 @@
 [  
 {
+            "league": "🏆 Laliga",
+            "date": "April 23",
+            "time": "0 - 2",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
+            "teams" : "Elche - Valencia",
+             "hteam" : "Elche",
+            "ateam" : "Valencia",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://nvid.topravideo.com/UpFiles/2023/4/23/42/253563/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://nvid.topravideo.com/UpFiles/2023/4/23/42/253563/720p.m3u8"
+}
+]
+}, 
+{
             "league": "🏆 Ligue 1",
             "date": "April 23",
             "time": "0 - 2",
@@ -10,12 +30,12 @@
             "ateam" : "Strasbourg",
             "hllink": [
 {
-  "quality":"wait SD",
-         "link":""
+  "quality":"SD",
+         "link":"https://nvid.topravideo.com/UpFiles/2023/4/23/42/253561/360p.m3u8"
 },
 {
-  "quality":"wait HD",
-         "link":""
+  "quality":"HD",
+         "link":"https://nvid.topravideo.com/UpFiles/2023/4/23/42/253561/720p.m3u8"
 }
 ]
 }, 
