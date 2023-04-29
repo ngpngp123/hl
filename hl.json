@@ -1,6 +1,84 @@
 [  
 {
 
+            "league": "🏆 Laliga",
+
+            "date": "April 30",
+
+            "time": " - ",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
+
+            "teams" : "Barcelona - Real Betis",
+
+             "hteam" : "Barcelona",
+
+            "ateam" : "Real Betis",
+
+            "hllink": [
+
+{
+
+  "quality":"SD",
+
+         "link":"https://opj.topravideo.com/UpFiles/2023/4/29/51/254203/360p.m3u8"
+
+},
+
+{
+
+  "quality":"HD",
+
+         "link":"https://opj.topravideo.com/UpFiles/2023/4/29/51/254203/720p.m3u8"
+
+}
+
+]
+
+}, 
+{
+
+            "league": "🏆 Serie A",
+
+            "date": "April 30",
+
+            "time": "1 - 2",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
+
+            "teams" : "Torino - Atalanta",
+
+             "hteam" : "Torino",
+
+            "ateam" : "Atalanta",
+
+            "hllink": [
+
+{
+
+  "quality":"SD",
+
+         "link":"https://opj.topravideo.com/UpFiles/2023/4/29/42/254190/360p.m3u8"
+
+},
+
+{
+
+  "quality":"HD",
+
+         "link":"https://opj.topravideo.com/UpFiles/2023/4/29/42/254190/720p.m3u8"
+
+}
+
+]
+
+}, 
+{
+
             "league": "🏆 Bundesliga",
 
             "date": "April 29",
