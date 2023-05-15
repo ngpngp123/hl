@@ -7,6 +7,45 @@
 
             "time": "2 - 0",
 
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
+
+            "teams" : "Fiorentina - Udinese",
+
+             "hteam" : "Fiorentina",
+
+            "ateam" : "Udinese",
+
+            "hllink": [
+
+{
+
+  "quality":"SD",
+
+         "link":"https://opj.topravideo.com/UpFiles/2023/5/14/42/255567/360p.m3u8"
+
+},
+
+{
+
+  "quality":"HD",
+
+         "link":"https://opj.topravideo.com/UpFiles/2023/5/14/42/255567/720p.m3u8"
+
+}
+
+]
+
+},
+     {
+
+            "league": "🏆 Serie A",
+
+            "date": "May 14",
+
+            "time": "2 - 0",
+
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
 
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
