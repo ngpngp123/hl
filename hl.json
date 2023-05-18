@@ -3,6 +3,45 @@
 
             "league": "🏆 Champions League Semi Final",
 
+            "date": "May 18",
+
+            "time": "4 - 0",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+
+            "teams" : "Manchester City - Real Madrid",
+
+             "hteam" : "Manchester City",
+
+            "ateam" : "Real Madrid",
+
+            "hllink": [
+
+{
+
+  "quality":"SD",
+
+         "link":"https://sources.topravideo.com/UpFiles/2023/5/17/51/255857/360p.m3u8"
+
+},
+
+{
+
+  "quality":"HD",
+
+         "link":"https://sources.topravideo.com/UpFiles/2023/5/17/51/255857/720p.m3u8"
+
+}
+
+]
+
+}, 
+ {
+
+            "league": "🏆 Champions League Semi Final",
+
             "date": "May 17",
 
             "time": "1 - 0",
