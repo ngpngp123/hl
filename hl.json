@@ -1,6 +1,45 @@
 [
  {
 
+            "league": "🏆 Laliga",
+
+            "date": "May 26",
+
+            "time": "2 - 0",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
+
+            "teams" : "Osasuna - Athletic Club",
+
+             "hteam" : "Osasuna",
+
+            "ateam" : "Athletic Club",
+
+            "hllink": [
+
+{
+
+  "quality":"SD",
+
+         "link":"https://foo.topravideo.com/UpFiles/2023/5/25/42/256498/360p.m3u8"
+
+},
+
+{
+
+  "quality":"HD",
+
+         "link":"https://foo.topravideo.com/UpFiles/2023/5/25/42/256498/720p.m3u8"
+
+}
+
+]
+
+}, 
+ {
+
             "league": "🏆 Premier League",
 
             "date": "May 26",
