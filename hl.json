@@ -21,17 +21,17 @@
 
 {
 
-  "quality":"SD",
+  "quality":"Auto",
 
-         "link":""
+         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256565/0.m3u8"
 
 },
 
 {
 
-  "quality":"HD",
+  "quality":"Trophy Celebration",
 
-         "link":""
+         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256580/0.m3u8"
 
 }
 
@@ -62,7 +62,7 @@
 
   "quality":"SD",
 
-         "link":""
+         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256585/360p.m3u8"
 
 },
 
@@ -70,7 +70,7 @@
 
   "quality":"HD",
 
-         "link":""
+         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256585/720p.m3u8"
 
 }
 
@@ -101,7 +101,7 @@
 
   "quality":"SD",
 
-         "link":""
+         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256570/360p.m3u8"
 
 },
 
@@ -109,7 +109,7 @@
 
   "quality":"HD",
 
-         "link":""
+         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256570/720p.m3u8"
 
 }
 
@@ -140,7 +140,7 @@
 
   "quality":"SD",
 
-         "link":""
+         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256571/360p.m3u8"
 
 },
 
@@ -148,7 +148,7 @@
 
   "quality":"HD",
 
-         "link":""
+         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256571/0.m3u8"
 
 }
 
@@ -179,7 +179,7 @@
 
   "quality":"SD",
 
-         "link":""
+         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256578/360p.m3u8"
 
 },
 
@@ -187,7 +187,7 @@
 
   "quality":"HD",
 
-         "link":""
+         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256578/720p.m3u8"
 
 }
 
@@ -218,7 +218,7 @@
 
   "quality":"SD",
 
-         "link":""
+         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256576/360p.m3u8"
 
 },
 
@@ -226,7 +226,7 @@
 
   "quality":"HD",
 
-         "link":""
+         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256576/720p.m3u8"
 
 }
 
@@ -257,7 +257,7 @@
 
   "quality":"SD",
 
-         "link":""
+         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/42/256583/360p.m3u8"
 
 },
 
@@ -265,7 +265,7 @@
 
   "quality":"HD",
 
-         "link":""
+         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/42/256583/720p.m3u8"
 
 }
 
@@ -335,7 +335,7 @@
 
   "quality":"SD",
 
-         "link":""
+         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256587/360p.m3u8"
 
 },
 
@@ -343,7 +343,7 @@
 
   "quality":"HD",
 
-         "link":""
+         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/51/256587/720p.m3u8"
 
 }
 
@@ -374,7 +374,7 @@
 
   "quality":"SD",
 
-         "link":""
+         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/42/256548/360p.m3u8"
 
 },
 
@@ -382,7 +382,7 @@
 
   "quality":"HD",
 
-         "link":""
+         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/42/256548/720p.m3u8"
 
 }
 
@@ -413,7 +413,7 @@
 
   "quality":"SD",
 
-         "link":""
+         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/42/256545/360p.m3u8"
 
 },
 
@@ -421,7 +421,7 @@
 
   "quality":"HD",
 
-         "link":""
+         "link":"https://foo.topravideo.com/UpFiles/2023/5/27/42/256545/720p.m3u8"
 
 }
 
