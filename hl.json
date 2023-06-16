@@ -1,10 +1,11 @@
 [
+ 
  {
             "league": "friend",
             "date": "june 15",
             "time": "2 - 0",
-            "himg": "0",
-            "aimg": "0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6716_small.png",
             "teams" : "Argentina 2-0Australia",
              "hteam" : "Argentina",
             "ateam" : "Australia",
@@ -19,6 +20,26 @@
 }
             ]
  },
+ {
+            "league": "euro",
+            "date": "june 15",
+            "time": "2 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6720_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8204_small.png",
+            "teams" : "Spain 2-1 Italy",
+             "hteam" : "Spain",
+            "ateam" : "Italy",
+            "hllink": [
+
+{
+
+  "quality":"SD",
+
+         "link":"https://unrf.topravideo.com/UpFiles/2023/6/15/42/257524/360p.m3u8"
+
+}
+            ]
+        },
  
 
 
