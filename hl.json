@@ -1,13 +1,13 @@
 [
  {
-            "league": "0",
-            "date": "0",
+            "league": "Euro 21",
+            "date": "July 2",
             "time": "2 - 1",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8505_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5854_small.png",
-            "teams" : " 3-0 ",
-             "hteam" : "0",
-            "ateam" : "0",
+            "teams" : "Spain U21 2-1 Switzerland U21",
+             "hteam" : "Spain U21",
+            "ateam" : "Switzerland U21",
             "hllink": [
 {
            "quality":"720",
