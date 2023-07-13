@@ -1,5 +1,45 @@
 [
             {
+            "league": "🏆 Club Friendlies",
+            "date": "July 12",
+            "time": "2 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
+            "teams" : "Man United - Leeds",
+             "hteam" : "Man United",
+            "ateam" : "Leeds",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://nlii.topravideo.com/UpFiles/2023/7/12/51/258701/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://nlii.topravideo.com/UpFiles/2023/7/12/51/258701/720p.m3u8"
+}
+]
+}, 
+     {
+            "league": "🏆 Club Friendlies",
+            "date": "July 12",
+            "time": "0 - 7",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/208110_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+            "teams" : "Westfalia Rhynern - Dortmund",
+             "hteam" : "Westfalia Rhynern",
+            "ateam" : "Dortmund",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://nlii.topravideo.com/UpFiles/2023/7/12/42/258700/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://nlii.topravideo.com/UpFiles/2023/7/12/42/258700/720p.m3u8"
+}
+]
+},        
+            {
             "league": "🏆 CONCACAF Gold Cup Quarter-final",
             "date": "July 9",
             "time": "2 - 0",
