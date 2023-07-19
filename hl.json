@@ -50,7 +50,8 @@
             "ateam" : "West Ham",
             "hllink": [
 {
-  "quality":"SD","https://nlii.topravideo.com/UpFiles/2023/7/18/42/258907/360p.m3u8"
+  "quality":"SD",
+          "link":"https://nlii.topravideo.com/UpFiles/2023/7/18/42/258907/360p.m3u8"
 },
 {
   "quality":"HD",
