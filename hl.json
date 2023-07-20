@@ -2,6 +2,66 @@
             {
             "league": "🏆 Club Friendlies",
             "date": "July 20",
+            "time": "7 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6452_small.png",
+            "teams" : "Milan - Lumezzane",
+             "hteam" : "Milan",
+            "ateam" : "Lumezzane",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://nlii.topravideo.com/UpFiles/2023/7/20/51/259015/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://nlii.topravideo.com/UpFiles/2023/7/20/51/259015/0.m3u8"
+}
+]
+}, 
+            {
+            "league": "🏆 World Cup Grp. A",
+            "date": "July 20",
+            "time": "1 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/74876_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5813_small.png",
+            "teams" : "New Zealand - Norway",
+             "hteam" : "New Zealand (W)",
+            "ateam" : "Norway (W)",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://nlii.topravideo.com/UpFiles/2023/7/20/42/259006/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://nlii.topravideo.com/UpFiles/2023/7/20/42/259006/720p.m3u8"
+}
+]
+}, 
+            {
+            "league": "🏆 World Cup Grp. B",
+            "date": "July 20",
+            "time": "1 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5981_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/394241_small.png",
+            "teams" : "Australia - Ireland",
+             "hteam" : "Australia (W)",
+            "ateam" : "Ireland (W)",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://nlii.topravideo.com/UpFiles/2023/7/20/42/259005/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://nlii.topravideo.com/UpFiles/2023/7/20/42/259005/720p.m3u8"
+}
+]
+}, 
+            {
+            "league": "🏆 Club Friendlies",
+            "date": "July 20",
             "time": "0 - 5",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/207967_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
