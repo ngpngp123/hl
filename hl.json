@@ -1,5 +1,46 @@
 [
             {
+            "league": "🏆 Club Friendlies",
+            "date": "July 19",
+            "time": "1 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
+            "teams" : "Man United - Lyon",
+             "hteam" : "Man United",
+            "ateam" : "Lyon",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://nlii.topravideo.com/UpFiles/2023/7/19/51/258940/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://nlii.topravideo.com/UpFiles/2023/7/19/51/258940/0.m3u8"
+}
+]
+}, 
+            {
+            "league": "🏆 Club Friendlies",
+            "date": "July 19",
+            "time": "2 - 4",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8295_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+            "teams" : "Karlsruher SC - Liverpool",
+             "hteam" : "Karlsruher SC",
+            "ateam" : "Liverpool",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://nlii.topravideo.com/UpFiles/2023/7/19/42/258964/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://nlii.topravideo.com/UpFiles/2023/7/19/42/258964/0.m3u8"
+}
+]
+}, 
+            
+            {
             "league": "🏆  Club Friendlies",
             "date": "July 18",
             "time": "0 - 27",
