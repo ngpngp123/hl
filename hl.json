@@ -1,5 +1,25 @@
 [
             {
+            "league": "🏆 League Cups ",
+            "date": "July 22",
+            "time": "2 - 1",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6578_small.png",
+            "teams" : "Inter Miami CF - Cruz Azul",
+             "hteam" : "Inter Miami CF",
+            "ateam" : "Cruz Azul",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://nlii.topravideo.com/UpFiles/2023/7/22/42/259051/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://nlii.topravideo.com/UpFiles/2023/7/22/42/259051/720p.m3u8"
+}
+]
+}, 
+            {
             "league": "🏆 Club Friendlies",
             "date": "July 21",
             "time": "0 - 2",
