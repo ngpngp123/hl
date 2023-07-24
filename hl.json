@@ -1,6 +1,26 @@
 [
             {
             "league": "🏆 Club Friendly Games",
+            "date": "July 24",
+            "time": "3 - 3",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+            "teams" : "Newcastle - Aston Villa",
+             "hteam" : "Newcastle",
+            "ateam" : "Aston Villa",
+            "hllink": [
+{
+  "quality":"SD",
+         "link":"https://nlii.topravideo.com/UpFiles/2023/7/24/42/259165/360p.m3u8"
+},
+{
+  "quality":"HD",
+         "link":"https://nlii.topravideo.com/UpFiles/2023/7/24/42/259165/720p.m3u8"
+}
+]
+}, 
+            {
+            "league": "🏆 Club Friendly Games",
             "date": "July 23",
             "time": "3 - 5",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6581_small.png",
